@@ -1,16 +1,18 @@
 # Calculator-
 A basic python calculator that performs arithmetic operations
-Features 
-Addition 
-Subtraction
-Multiplication
-Division
 
-Technology Used
+Features 
+<br>
+Addition <br>
+Subtraction<br>
+Multiplication<br>
+Division<br>
+
+Technology Used<br>
 python
 
-Future Improvements
+Future Improvements<br>
 More mathematical operations
 
-Author
+Author<br>
 Muhammad Faiq Imran
