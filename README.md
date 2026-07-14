@@ -12,7 +12,8 @@ Technology Used<br>
 python
 
 Future Improvements<br>
-More mathematical operations
+More mathematical operations<br>
+Voice Command Feature
 
 Author<br>
 Muhammad Faiq Imran
