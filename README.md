@@ -7,6 +7,8 @@ Addition <br>
 Subtraction<br>
 Multiplication<br>
 Division<br>
+Modulus<br>
+Floor Division<br>
 
 Technology Used<br>
 python
